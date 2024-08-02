@@ -15,7 +15,9 @@ Results: The script prints an ANOVA table that summarizes the statistical signif
 Visualization: The script generates two types of plots:
 
 ANOVA Table: Provides statistical significance of the factors and their interaction.
+
 Interaction Plot: Shows the interaction effects between the two factors.
+
 Boxplot: Displays the distribution of the response variable across different levels of the factors.
 
 
