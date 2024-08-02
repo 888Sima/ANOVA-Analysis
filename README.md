@@ -4,7 +4,7 @@
 
 https://www.rpubs.com/simasiami/383921
 
-# Part Two Two-Way ANOVA model 
+# Part Two Using Python: Two-Way ANOVA model 
 
 Data Generation: The script creates synthetic data with two factors, each with multiple levels, and a continuous response variable.
 
